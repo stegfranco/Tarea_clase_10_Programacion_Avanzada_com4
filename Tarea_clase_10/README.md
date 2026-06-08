@@ -17,3 +17,5 @@ python patrones_diseno.py
 Notas:
 - El archivo `Resolucion_de_actividad_clase_10.py` contiene explicaciones y respuestas en formato comentado.
 - Este README es intencionalmente breve y explícito; si quieres un README más detallado (introducción, licencia, autor), dímelo y lo amplío.
+
+<!-- Commit rename helper: agregando README -->
